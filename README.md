@@ -1,4 +1,4 @@
-
+![logo](https://github.com/husnamaliakkal/husnamaliakkal/blob/main/LOGO.png)
 <h1 align="center">Hi 👋, I'm Husna Maliakkal</h1>
 <h3 align="center">Data science enthusiast specializing in Natural Language Processing (NLP)</h3>
 
