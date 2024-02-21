@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Husna Maliakkal</h1>
 <h3 align="center">Data science enthusiast specializing in Natural Language Processing (NLP)</h3>
 
-<img align="right" alt="coding" width="300" src="https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg?auto=webp&quality=85,70">
+<img align="right" alt="coding" width="300" src="https://ouch-cdn2.icons8.com/msA83ds12VSI1QGznVpr-qjgIf9c3UwDuh5HU-6-a_k/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNTkx/LzFiYmM1ODZmLWFi/ZTMtNDk3Yi1hNDU1/LThjOTliNjUzOTg1/Yy5zdmc.png">
 
 
 
